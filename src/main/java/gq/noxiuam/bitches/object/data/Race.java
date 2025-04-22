@@ -6,5 +6,6 @@ public enum Race {
     AFRICAN,
     ASIAN,
     HISPANIC,
-    INDIAN
+    INDIAN,
+    ARABIC
 }
